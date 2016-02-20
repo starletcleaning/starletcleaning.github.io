@@ -1,6 +1,6 @@
 # Starlet Cleaning Management App
 
-We are currently building a free and open source application that will help cleaning companies from all of the world manage their infrastructure - from time management and scheduling to invoicing. Please visit our website for more information.
+We are currently building a free and open source application that will help cleaning companies from all of the world manage their infrastructure - from time management and scheduling to invoicing. Please visit our [official website](https://www.starletcleaning.co.uk) for more information.
 
 ## About Starlet Cleaning
 
